@@ -1,1 +1,1 @@
-# Australia_WildLifeFireDetection
+This detection is identified using python program. It takes the datasets of previous fires occured in forests in different time. With the help of those data values, we predict the next wild life fires in australia.
